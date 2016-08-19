@@ -1,0 +1,42 @@
+# Copyright (c) 2016 Arista Networks, Inc.  All rights reserved.
+# Arista Networks, Inc. Confidential and Proprietary.
+i=3
+while (i < 255 ):
+      print('STEP::3')
+      print('Command:fm241=enable')
+      print('Command:fm241=configure terminal')
+      print('Command:fm241=interface ethernet 7')
+      print('Command:fm241=vrrp 1 priority '+str(i))
+      print('Delay:3')
+      print('Command:fm241=enable')
+      print('Command:fm241=show vrrp brief')
+      print('Match:groupId=1')
+      print('Check:state=master')
+      print('Delay:5')
+      print('///')
+      print('STEP::4')
+      print('Command:fm109=enable')
+      print('Command:fm109=show vrrp')
+      print('Match:groupId=1')
+      print('Check:state=backup')
+      print('///')
+      print('STEP::5')
+      print('Command:fm109=enable')
+      print('Command:fm109=configure terminal')
+      print('Command:fm109=interface ethernet 3')
+      i=i+1
+      print('Command:fm109=vrrp 1 priority '+str(i))
+      print('Delay:10')
+      print('Command:fm241=enable')
+      print('Command:fm241=show vrrp brief')
+      print('Match:groupId=1')
+      print('Check:state=backup')
+      print('Delay:1')
+      print('///')
+      print('STEP::6"'
+      print('Command:fm109=enable')
+      print('Command:fm109=show vrrp')
+      print('Match:groupId=1')
+      print('Check:state=master')
+      print('///')
+      i=i+1

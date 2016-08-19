@@ -1,0 +1,1432 @@
+Testcase execution started :test8.cfg
+Testcase has 204 steps
+['STEP::1', 'STEP::2', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4', 'STEP::3', 'STEP::4']
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::1 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::2 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase test8.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase test8.cfg is passed
+
+
+['PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS']

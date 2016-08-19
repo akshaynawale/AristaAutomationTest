@@ -1,0 +1,46 @@
+Testcase execution started :stresstest5.cfg
+Testcase has 6 steps
+['STEP::1', 'STEP::2', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6']
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::1 in testcase stresstest5.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::2 in testcase stresstest5.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase stresstest5.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase stresstest5.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest5.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest5.cfg is passed
+
+
+['PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS']

@@ -1,0 +1,76 @@
+Testcase execution started :stresstest6.cfg
+Testcase has 10 steps
+['STEP::1', 'STEP::2', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6']
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::1 in testcase stresstest6.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::2 in testcase stresstest6.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase stresstest6.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase stresstest6.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest6.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest6.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest6.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 2, 'state': 'master', 'version': 2, 'interface': 'Ethernet3', 'masterDownInterval': 3992, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 4, 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'masterDownInterval': 3984, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest6.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest6.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest6.cfg is passed
+
+
+['PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'FAIL', 'FAIL', 'PASS', 'PASS']

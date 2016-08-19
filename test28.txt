@@ -1,0 +1,596 @@
+Testcase execution started :stresstest2.cfg
+Testcase has 506 steps
+['STEP::1', 'STEP::2', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6']
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::1 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::2 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '10.0.0.10', 'vrIdDisabledReason': '', 'masterDownInterval': 3992}, {'virtualMac': '00:00:5e:00:01:01', 'masterPriority': 4, 'vrIdDisabled': False, 'vrfName': 'default', 'description': '', 'macAddressInterval': 30, 'skewTime': 0.984375, 'preemptReload': 0, 'masterAddr': 'fe80::21c:73ff:fe74:452b', 'groupId': 1, 'priority': 4, 'virtualIpv6': ['2001::1'], 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'vrIdDisabledReason': '', 'masterDownInterval': 3984, 'preempt': True, 'vrrpAdvertInterval': 1, 'preemptDelay': 0, 'masterInterval': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::4 in testcase stresstest2.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest2.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest2.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 1, 'state': 'backup', 'version': 2, 'interface': 'Ethernet7', 'masterDownInterval': 3996, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 3, 'state': 'backup', 'version': 3, 'interface': 'Ethernet7', 'masterDownInterval': 3988, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'master'}
+STEP::3 in testcase stresstest2.cfg is failed
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'macAddressInterval': 30, 'preempt': True, 'masterInterval': 1, 'masterPriority': 2, 'vrIdDisabled': False, 'preemptDelay': 0, 'virtualIpSecondary': [], 'virtualIp': '10.0.0.1', 'priority': 2, 'skewTime': 0.9921875, 'state': 'master', 'version': 2, 'vrrpAdvertInterval': 1, 'preemptReload': 0, 'virtualMac': '00:00:5e:00:01:02', 'description': '', 'interface': 'Ethernet3', 'groupId': 2, 'masterAddr': '1

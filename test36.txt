@@ -1,0 +1,133 @@
+Testcase execution started :stresstest9.cfg
+Testcase has 18 steps
+['STEP::1', 'STEP::2', 'STEP::3', 'STEP::4', 'STEP::5', 'STEP::6', 'STEP::6', 'STEP::7', 'STEP::8', 'STEP::9', 'STEP::9', 'STEP::10', 'STEP::11', 'STEP::12', 'STEP::12', 'STEP::13', 'STEP::14', 'STEP::15']
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::1 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::2 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::3 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::4 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::5 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::6 in testcase stresstest9.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 2, 'state': 'master', 'version': 2, 'interface': 'Ethernet3', 'masterDownInterval': 3992, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 4, 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'masterDownInterval': 3984, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::7 in testcase stresstest9.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::8 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::9 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::9 in testcase stresstest9.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 2, 'state': 'master', 'version': 2, 'interface': 'Ethernet3', 'masterDownInterval': 3992, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 6, 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'masterDownInterval': 3976, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::10 in testcase stresstest9.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::11 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::12 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::12 in testcase stresstest9.cfg is passed
+
+
+Error Dump for this step:
+Result List:
+[{'vrfName': 'default', 'virtualIp': '10.0.0.1', 'priority': 2, 'state': 'master', 'version': 2, 'interface': 'Ethernet3', 'masterDownInterval': 3992, 'groupId': 2}, {'vrfName': 'default', 'virtualIps': ['2001::1'], 'priority': 8, 'state': 'master', 'version': 3, 'interface': 'Ethernet3', 'masterDownInterval': 3968, 'groupId': 1}]
+Match Dictionary:
+{'groupId': '1'}
+Check Dictionary:
+{'state': 'backup'}
+STEP::13 in testcase stresstest9.cfg is failed
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'backup'}
+STEP::14 in testcase stresstest9.cfg is passed
+
+
+Match parameters:
+{'groupId': '1'}
+Check Parameters:
+{'state': 'master'}
+STEP::15 in testcase stresstest9.cfg is passed
+
+
+['PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'FAIL', 'PASS', 'PASS', 'PASS', 'FAIL', 'PASS', 'PASS', 'PASS', 'FAIL', 'PASS', 'PASS']
